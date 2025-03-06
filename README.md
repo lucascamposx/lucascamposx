@@ -113,6 +113,10 @@ Me chamo Lucas Campos de Franca, tenho 20 anos e sou natural de Pernambuco. Esto
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascamposx&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
- 
+
+ <br>
+
+
+![snake-animation](https://github.com/lucascamposx/lucascamposx/blob/output/github-contribution-grid-snake.svg)
 
 
