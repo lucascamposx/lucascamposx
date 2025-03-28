@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Campos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor back-end`**
 
 Me chamo Lucas Campos de Franca, tenho 20 anos e sou natural de Pernambuco. Estou cursando Engenharia de Software no INFNET. Tenho grande interesse por tecnologia e programação, e busco sempre aprender e aplicar novas soluções inovadoras no campo do desenvolvimento de software.
 <div>
